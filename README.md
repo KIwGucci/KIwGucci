@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @KIwGucci. I work as Mechanical designer.
+- 👋 I work as Mechanical designer.
 - 👀 I’m interested in Python and Rust. 
-- 🌱 I’m currently learning Rust.
 - 📫 https://www.youtube.com/channel/UC7PuiC7mj6FROyQ5ZLS3orA
 
 <!---
