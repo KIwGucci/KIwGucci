@@ -1,5 +1,6 @@
 - 👋 I work as Mechanical designer.
-- 👀 I use Python and Rust to build simple tools.
+
+I use Python and Rust to build simple tools.
 
 I prefer to use programming languages that work on multiple platforms.
 
