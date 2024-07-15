@@ -1,5 +1,5 @@
 # KIwGucci
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIwGucci&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIwGucci&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIwGucci&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=KIwGucci)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![](https://raw.githubusercontent.com/KIwGucci/KIwGucci/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KIwGucci/KIwGucci/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KIwGucci/KIwGucci/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KIwGucci/KIwGucci/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KIwGucci/KIwGucci/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
